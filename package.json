@@ -1,0 +1,26 @@
+{
+  "name": "anisafifi",
+  "version": "1.0.0",
+  "description": "Anis Afifi's terminal portfolio card - Run with: npx anisafifi",
+  "author": "Anis Afifi",
+  "license": "MIT",
+  "keywords": [
+    "anisafifi",
+    "portfolio",
+    "terminal",
+    "card",
+    "cli",
+    "developer"
+  ],
+  "bin": {
+    "anisafifi": "./index.js"
+  },
+  "type": "module",
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "boxen": "^7.0.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1"
+  }
+}
