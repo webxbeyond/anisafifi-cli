@@ -39,7 +39,7 @@ ${gradient.passion('💻 Web Developer')}
 
 ${gradient.summer('📬 Contact & Socials')}
     ${chalk.blue('🌐 Website:')}     https://webx.build
-    ${chalk.blue('📧 Email:')}       contact@webx.build
+    ${chalk.blue('📧 Email:')}       anis@webx.build
     ${chalk.blue('🐦 Twitter:')}     https://twitter.com/webx
     ${chalk.blue('🐙 GitHub:')}      https://github.com/webx
     ${chalk.blue('🔗 LinkedIn:')}    https://linkedin.com/in/webx
@@ -70,11 +70,11 @@ ${gradient.vice('🧑‍💼 Entrepreneur')}
 
 ${gradient.summer('📬 Contact & Socials')}
     ${chalk.blue('🌐 Website:')}     https://anisafifi.com
-    ${chalk.blue('📧 Email:')}       contact@anisafifi.com
-    ${chalk.blue('🐦 Twitter:')}     https://twitter.com/anisafifi
+    ${chalk.blue('📧 Email:')}       anis@anisafifi.com
+    ${chalk.blue('🐦 Twitter:')}     https://twitter.com/theanisafifi
     ${chalk.blue('🐙 GitHub:')}      https://github.com/anisafifi
-    ${chalk.blue('🔗 LinkedIn:')}    https://linkedin.com/in/anisafifi
-    ${chalk.blue('📺 YouTube:')}     https://youtube.com/@anisafifi
+    ${chalk.blue('🔗 LinkedIn:')}    https://linkedin.com/in/theanisafifi
+    ${chalk.blue('📺 YouTube:')}     https://youtube.com/@theanisafifi
 
 Made with 💚 by Anis Afifi - Let's build the future together
 `;
